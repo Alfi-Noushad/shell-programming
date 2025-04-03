@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <dirent.h>
-#include <stdlib.h>
+#include <stdlib.h>    //io system
 #include <unistd.h>
 struct dirent*dptr;
 int main(int age,char*argv[])
